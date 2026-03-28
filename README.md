@@ -1,65 +1,69 @@
-# ⚡ ZOUBAIRE.exe
+# 🌌 ZOUBAIRE.exe // CYBER ANIME CORE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Zoubaire&fontSize=50&fontColor=00F7FF&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:00F7FF&height=250&section=header&text=Zoubaire&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Ethical+Hacker...;AI+Builder...;Cybersecurity+Mindset;Breaking+Systems+%26+Rebuilding+Them" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,nodejs,linux,git,github&theme=dark"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Cyber+Entity+Initializing...;AI+%7C+Hacking+%7C+Systems;Neural+Mind+Online;Reality+is+Code" />
 </p>
 
 ---
 
-## 🧠 DIGITAL IDENTITY
+## 🧠 AVATAR CORE
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="500"/>
 </p>
 
-```bash
-> user: zoubaire
-> status: evolving...
-> focus: cybersecurity | AI | automation
-> mode: relentless
+```bash id="animecore01"
+> entity: ZOUBAIRE.exe
+> class: Cyber Intelligence
+> state: evolving
+> objective: dominate systems
 ```
 
 ---
 
-## ⚡ SYSTEM STATUS
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MOSTRE&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
----
-
-## 🧬 TECH ENERGY
+## ⚡ POWER LEVEL
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MOSTRE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
   <img src="https://streak-stats.demolab.com?user=MOSTRE&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
 </p>
 
+---
+
+## 🌀 SKILL MATRIX
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTRE&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,nodejs,linux,git,github,aws&theme=dark"/>
 </p>
 
 ---
 
-## 🔥 LIVE FEED
+## 🔮 NEURAL STREAM
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
 </p>
 
 ---
 
-## 🌐 CONNECT
+## 🧬 SYSTEM FLOW
+
+```mermaid id="animeflow77"
+flowchart TD
+    A[Input Data] --> B[Analyze]
+    B --> C[Break System]
+    C --> D[Rebuild Stronger]
+    D --> E[Deploy AI Logic]
+```
+
+---
+
+## 🌐 LINK PORTAL
 
 <p align="center">
   <a href="https://discord.gg/zoubaire_"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
@@ -70,8 +74,8 @@
 
 ---
 
-## ⚡ FINAL SIGNAL
+## ⚡ FINAL FORM
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=120&section=footer"/>
 </p>
