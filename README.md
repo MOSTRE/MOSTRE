@@ -1,81 +1,109 @@
-# 🌌 ZOUBAIRE.exe // CYBER ANIME CORE
+# 🧠 ZOUBAIRE // cyber.dev
+
+> Offensive Security Learner | AI Builder | Systems Breaker (ethically)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=MOSTRE\&color=blue)
+![Status](https://img.shields.io/badge/status-evolving-blueviolet)
+![Focus](https://img.shields.io/badge/focus-cybersecurity%20%7C%20AI-black)
+![Mindset](https://img.shields.io/badge/mindset-break%20%2F%20understand%20%2F%20build-red)
+![Debugging](https://img.shields.io/badge/debugging-why%20did%20this%20work-yellow)
+![Production](https://img.shields.io/badge/pushed%20to-production%20on%20Friday-red)
+
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0f2027,100:00F7FF&height=250&section=header&text=Zoubaire&fontSize=55&fontColor=00F7FF&animation=fadeIn"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=800&lines=Cyber+Entity+Initializing...;AI+%7C+Hacking+%7C+Systems;Neural+Mind+Online;Reality+is+Code" />
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/xUPGcguWZHRC2HyBRS/giphy.gif" width="220"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
 </p>
 
 ---
 
-## 🧠 AVATAR CORE
+## <script>init_consciousness()</script>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="500"/>
-</p>
-
-```bash id="animecore01"
-> entity: ZOUBAIRE.exe
-> class: Cyber Intelligence
-> state: evolving
-> objective: dominate systems
+```bash
+> user: zoubaire
+> role: cyber + ai learner
+> state: leveling up
+> goal: become dangerous (knowledge, not chaos)
 ```
 
 ---
 
-## ⚡ POWER LEVEL
+## 🌍 Languages
+
+* English
+* Spanish 🇪🇸 (B1 → B2 in progress)
+* Arabic
+* Learning more soon...
+
+---
+
+## 💻 Tech + Systems
+
+* Python / JavaScript / C++
+* Linux / Networking basics
+* Web + Backend systems
+* Cloud basics (AWS / Azure)
+
+---
+
+## 🔐 Cybersecurity Focus
+
+* 🧠 System fundamentals (networking, OS)
+* 🔍 Vulnerability analysis
+* ⚙️ Automation & scripting
+* 🧩 Reverse engineering (learning phase)
+* 🛡️ Defensive mindset + ethical testing
+
+---
+
+## 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MOSTRE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170"/>
-  <img src="https://streak-stats.demolab.com?user=MOSTRE&theme=tokyonight&hide_border=true&background=00000000" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MOSTRE&theme=radical&show_icons=true"/>
+  <img src="https://streak-stats.demolab.com?user=MOSTRE&theme=radical"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOSTRE&layout=compact&theme=radical"/>
 </p>
 
 ---
 
-## 🌀 SKILL MATRIX
+## 🧪 Active Projects
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,cpp,nodejs,linux,git,github,aws&theme=dark"/>
-</p>
-
----
-
-## 🔮 NEURAL STREAM
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400"/>
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="400"/>
-</p>
+* 🔧 Building small **security tools (learning phase)**
+* 🤖 AI experiments (automation + models)
+* 🌐 Web-based systems
 
 ---
 
-## 🧬 SYSTEM FLOW
+## ⚠️ Notes
 
-```mermaid id="animeflow77"
-flowchart TD
-    A[Input Data] --> B[Analyze]
-    B --> C[Break System]
-    C --> D[Rebuild Stronger]
-    D --> E[Deploy AI Logic]
+```text
+I don’t just use systems.
+I study them.
+
+I don’t just study them.
+I test their limits.
+
+Everything here is for learning, research, and ethical purposes.
 ```
 
 ---
 
-## 🌐 LINK PORTAL
+## 🌐 Contact
 
-<p align="center">
-  <a href="https://discord.gg/zoubaire_"><img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord"></a>
-  <a href="https://instagram.com/zoubaire_26"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram"></a>
-  <a href="https://tiktok.com/@zoubaire_26"><img src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok"></a>
-  <a href="https://x.com/zoubaire_26"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x"></a>
-</p>
+* GitHub → https://github.com/MOSTRE
+* Discord → zoubaire_
+* X → https://x.com/zoubaire_26
 
 ---
 
-## ⚡ FINAL FORM
+## 🧬 Final Thought
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:0f2027,100:000000&height=120&section=footer"/>
-</p>
+> “The difference between a user and a hacker
+> is curiosity pushed to its limit.”
