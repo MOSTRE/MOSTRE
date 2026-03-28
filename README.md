@@ -39,7 +39,7 @@ Building tools for research & ethical testing
 
 * English
 * Arabic
-* Spanish (B2 🔜)
+* Spanish
 
 ---
 
