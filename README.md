@@ -1,9 +1,17 @@
+```bash
+███████╗ ██████╗ ██╗   ██╗██████╗  █████╗ ██╗██████╗ ███████╗
+╚══███╔╝██╔═══██╗██║   ██║██╔══██╗██╔══██╗██║██╔══██╗██╔════╝
+  ███╔╝ ██║   ██║██║   ██║██████╔╝███████║██║██████╔╝█████╗  
+ ███╔╝  ██║   ██║██║   ██║██╔══██╗██╔══██║██║██╔══██╗██╔══╝  
+███████╗╚██████╔╝╚██████╔╝██████╔╝██║  ██║██║██║  ██║███████╗
+╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝
+```
+
 # MOSTRE
 
 **zoubaire · he/him**
 
 Cybersecurity enthusiast · AI + systems learner
-Building tools for research & ethical testing
 `// still watching...`
 
 ---
@@ -14,32 +22,6 @@ Building tools for research & ethical testing
 ![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat\&logo=javascript)
 ![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat\&logo=c%2B%2B)
 ![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat\&logo=linux)
-![Networking](https://img.shields.io/badge/Networking-0a0a0a)
-![Backend](https://img.shields.io/badge/Web%20Backend-0a0a0a)
-![Cloud](https://img.shields.io/badge/Cloud-0a0a0a)
-
----
-
-### 🧠 FOCUS
-
-**Security**
-
-* System fundamentals
-* Vulnerability research
-* Automation
-* Reverse engineering (learning)
-
-**Building**
-
-* Security tools
-* AI experiments
-* Web systems
-
-**Languages**
-
-* English
-* Arabic
-* Spanish
 
 ---
 
